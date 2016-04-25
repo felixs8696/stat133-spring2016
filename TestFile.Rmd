@@ -1,6 +1,6 @@
 ---
 title: "Github Test Commit"
-author: ""
+author: "Felix Su"
 date: ""
 output: 
   html_document:
